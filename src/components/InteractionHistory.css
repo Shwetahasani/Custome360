@@ -1,0 +1,27 @@
+/* src/components/InteractionHistory.css */
+.interaction-history {
+    background-color: #e8f5e9;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.5s ease;
+  }
+  
+  .interaction-history:hover {
+    background-color: #c8e6c9;
+  }
+  
+  h2 {
+    color: #388e3c;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  

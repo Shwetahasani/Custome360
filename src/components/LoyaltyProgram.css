@@ -1,0 +1,27 @@
+/* src/components/LoyaltyProgram.css */
+.loyalty-program {
+    background-color: #e1f5fe;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.5s ease;
+  }
+  
+  .loyalty-program:hover {
+    background-color: #b3e5fc;
+  }
+  
+  h2 {
+    color: #0277bd;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
